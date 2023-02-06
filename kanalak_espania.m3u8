@@ -3,9 +3,10 @@
 #EXTINF:-1 radio="true" tvg-id="RNE.Radio" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio Nacional",Radio Nacional
 https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8
 #EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio 3 RNE",Radio 3 RNE
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8?hdnts=exp=1674682045~hmac=74709825007c19c0a9952d23661a4610782fbaf66a4114b686d1b89e8ccb0bc5&idasset=1712469
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8?idasset=1712469
 #EXTINF:-1 radio="true" tvg-id="RNE3.Radio" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Radio 3 RNE",Radio 3 RNE
 https://crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rner3/main/mp3/high
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8?idasset=1712469
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r3_main.m3u8?hdnts=exp=1674682045~hmac=74709825007c19c0a9952d23661a4610782fbaf66a4114b686d1b89e8ccb0bc5&idasset=1712469
 #EXTINF:-1 radio="true" tvg-id="RNE5.Radio" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="Radio_Populares" tvg-name="Radio 5 RNE",Radio 5 RNE
 https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r5_madrid_main.m3u8
